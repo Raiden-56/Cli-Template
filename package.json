@@ -7,7 +7,7 @@
   },
   "type": "commonjs",
   "bin": {
-    "cli": "./bin/index.js"
+    "prefix": "./bin/index.js"
   },
   "author": "dinaro.k",
   "license": "ISC",
